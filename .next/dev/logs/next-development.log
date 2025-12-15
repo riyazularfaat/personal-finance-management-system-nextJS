@@ -1,0 +1,73 @@
+[00:00:01.662] Server  LOG      ✓ Ready in 1189ms
+[00:00:49.898] Browser LOG     [v0] Attempting login...
+[00:00:49.945] Server  LOG     [v0] Login API called
+[00:00:50.014] Server  LOG     [v0] User not found: "admin@example.com"
+[00:00:50.127] Browser ERROR   [v0] Login error: {}
+[00:01:08.927] Server  LOG     [v0] Login API called
+[00:01:08.987] Server  LOG     [v0] User not found: "admin@example.com"
+[00:01:09.096] Browser LOG     [v0] Attempting login...
+[00:01:09.096] Browser ERROR   [v0] Login error: {}
+[00:01:36.941] Server  LOG     [v0] Starting database seed...
+[00:01:37.145] Server  LOG     [v0] Roles created
+[00:01:37.291] Server  LOG     [v0] Menus created
+[00:01:38.163] Server  LOG     [v0] Role menu access created
+[00:01:38.558] Server  LOG     [v0] Users created
+[00:01:38.699] Server  LOG     [v0] Categories created
+[00:01:38.838] Server  LOG     [v0] Accounts created
+[00:01:38.982] Server  LOG     [v0] Transactions created
+[00:01:39.123] Server  LOG     [v0] Budgets created
+[00:01:56.462] Server  LOG     [v0] Login API called
+[00:01:56.527] Server  LOG     [v0] User not found: "riyazularfaat@gmail.com"
+[00:01:56.639] Browser LOG     [v0] Attempting login...
+[00:01:56.639] Browser ERROR   [v0] Login error: {}
+[00:02:01.032] Server  LOG     [v0] Login API called
+[00:02:01.096] Server  LOG     [v0] User not found: "riyazularfaat@gmail.com"
+[00:02:01.208] Browser LOG     [v0] Attempting login...
+[00:02:01.208] Browser ERROR   [v0] Login error: {}
+[00:04:29.807] Server  LOG      ✓ Compiled in 209ms
+[00:04:47.509] Server  LOG     [v0] Login API called
+[00:04:47.569] Server  LOG     [v0] User not found: "riyazularfaat@gmail.com"
+[00:04:47.681] Browser LOG     [v0] Attempting login with: riyazularfaat@gmail.com
+[00:04:47.681] Browser LOG     [v0] Attempting login...
+[00:04:47.681] Browser ERROR   [v0] Login error: {}
+[00:04:47.681] Browser ERROR   [v0] Login error: {}
+[00:05:42.139] Server  LOG     [v0] Login API called
+[00:05:42.146] Browser LOG     [v0] Attempting login with: riyazularfaat@gmail.com
+[00:05:42.146] Browser LOG     [v0] Attempting login...
+[00:05:42.203] Server  LOG     [v0] User not found: "riyazularfaat@gmail.com"
+[00:05:42.325] Browser ERROR   [v0] Login error: {}
+[00:05:42.325] Browser ERROR   [v0] Login error: {}
+[00:05:43.438] Server  LOG     [v0] Login API called
+[00:05:43.498] Server  LOG     [v0] User not found: "riyazularfaat@gmail.com"
+[00:05:43.605] Browser LOG     [v0] Attempting login with: riyazularfaat@gmail.com
+[00:05:43.605] Browser LOG     [v0] Attempting login...
+[00:05:43.605] Browser ERROR   [v0] Login error: {}
+[00:05:43.605] Browser ERROR   [v0] Login error: {}
+[00:05:43.960] Server  LOG     [v0] Login API called
+[00:05:44.020] Server  LOG     [v0] User not found: "riyazularfaat@gmail.com"
+[00:05:44.124] Browser LOG     [v0] Attempting login with: riyazularfaat@gmail.com
+[00:05:44.124] Browser LOG     [v0] Attempting login...
+[00:05:44.124] Browser ERROR   [v0] Login error: {}
+[00:05:44.124] Browser ERROR   [v0] Login error: {}
+[00:06:02.117] Server  LOG     [v0] Login API called
+[00:06:02.177] Server  LOG     [v0] User not found: "riyazularfaat@gmail.com"
+[00:06:02.287] Browser LOG     [v0] Attempting login with: riyazularfaat@gmail.com
+[00:06:02.287] Browser LOG     [v0] Attempting login...
+[00:06:02.287] Browser ERROR   [v0] Login error: {}
+[00:06:02.287] Browser ERROR   [v0] Login error: {}
+[00:06:51.982] Server  LOG     [v0] Login API called
+[00:06:52.148] Browser LOG     [v0] Attempting login with: admin@example.com
+[00:06:52.148] Browser LOG     [v0] Attempting login...
+[00:06:52.293] Server  LOG     [v0] Login successful for: "admin@example.com"
+[00:06:52.406] Browser LOG     [v0] Login successful, redirecting to dashboard
+[00:06:55.324] Server  LOG      ○ Compiling /dashboard ...
+[00:06:55.807] Server  LOG     [v0] Login API called
+[00:06:55.870] Browser LOG     [v0] Attempting login with: admin@example.com
+[00:06:55.870] Browser LOG     [v0] Attempting login...
+[00:06:56.115] Server  LOG     [v0] Login successful for: "admin@example.com"
+[00:06:56.223] Browser LOG     [v0] Login successful, redirecting to dashboard
+[00:08:49.419] Server  LOG     [v0] Login API called
+[00:08:49.551] Browser LOG     [v0] Attempting login with: riyazularfaat@gmail.com
+[00:08:49.551] Browser LOG     [v0] Attempting login...
+[00:08:49.666] Server  LOG     [v0] Login successful for: "riyazularfaat@gmail.com"
+[00:08:49.778] Browser LOG     [v0] Login successful, redirecting to dashboard
